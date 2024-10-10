@@ -1,6 +1,8 @@
 # HR-Data-Analysis
 
 # HR Analytics Dataset - README
+![image](https://github.com/user-attachments/assets/65e3ff1e-2eb0-49fd-b9de-d38bab0ac5fc)
+
 
 ## Overview
 This dataset contains detailed information on employee demographics, work experience, job roles, and various other features. It is primarily used for HR analytics tasks, such as predicting employee attrition, analyzing job satisfaction, and identifying trends in business travel and department distribution.
